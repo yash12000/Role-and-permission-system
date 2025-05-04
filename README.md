@@ -2,7 +2,7 @@
 
 ## Deployed Link
 
-**[Live Application](https://vercel.com/yash-janbandhus-projects/v0-role-and-permission-system)**
+**[Live Application](https://v0-role-and-permission-system.vercel.app/login)**
 
 ## Login Credentials
 
